@@ -1,5 +1,3 @@
-# Jorge Rodriguez Project Portfolio
-
 ## [Project 1: PEAnalyzer - Malware Classification with Python & Tkinter](URL)
 
 This is a final project I did for my CYBI 4336 - Cyber Security Eng w/ AI & ML course  For The University of Texas Rio Grande Valley. 
