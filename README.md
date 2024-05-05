@@ -1,6 +1,6 @@
 # Jorge Rodriguez Portfolio
 
-#[Project 1: PEAnalyzer - Malware Classification with Python & Tkinter](URL)
+## [Project 1: PEAnalyzer - Malware Classification with Python & Tkinter](URL)
 
 This is a final project I did for my CYBI 4336 - Cyber Security Eng w/ AI & ML course  For The University of Texas Rio Grande Valley. 
 
@@ -23,14 +23,14 @@ PEAnalyzer is a user-friendly malware analysis tool designed to empower security
 * User-friendly interface with dark mode and hover effects.
 * Error Handling & Utility: Robust exception handling and helper functions for a smooth user experience.
   
-###Target Audience
+### Target Audience
 
 Cybersecurity analysts seeking to improve malware detection.
 Researchers exploring malware characteristics and classification techniques.
 Students learning about practical malware analysis and machine learning.
 
 
-###Benefits
+### Benefits
 Streamlines the malware analysis workflow.
 Provides insights into PE file characteristics.
 Offers a flexible platform with customizable machine learning models.
