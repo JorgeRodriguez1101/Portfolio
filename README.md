@@ -14,9 +14,11 @@ PEAnalyzer is a user-friendly malware analysis tool designed to empower security
 * Load and process malware datasets from CSV files.
 * Data preparation with feature selection and scaling (StandardScaler, RobustScaler).
 * PE Feature Extraction: Calculate informative file statistics such as entropy, section sizes, and more using the pefile library.
+  
 ### Machine Learning Integration:
 * Train Support Vector Machine (SVM) classifiers with customizable parameters or utilize grid search optimization.
 * Employ Random Forest for robust malware detection.
+  
 ### Intuitive GUI:
 * Conveniently upload and analyze PE files.
 * Visualize results with a Seaborn confusion matrix.
@@ -28,7 +30,6 @@ PEAnalyzer is a user-friendly malware analysis tool designed to empower security
 Cybersecurity analysts seeking to improve malware detection.
 Researchers exploring malware characteristics and classification techniques.
 Students learning about practical malware analysis and machine learning.
-
 
 ### Benefits
 Streamlines the malware analysis workflow.
