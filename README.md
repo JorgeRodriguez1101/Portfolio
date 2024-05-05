@@ -1,6 +1,6 @@
 ## [Project 1: PEAnalyzer - Malware Classification with Python & Tkinter](URL)
 
-This is a final project I did for my CYBI 4336 - Cyber Security Eng w/ AI & ML course  For The University of Texas Rio Grande Valley. 
+This project represents the culmination of my academic endeavors in CYBI 4336 - Cyber Security Engineering with Artificial Intelligence and Machine Learning, a course offered at The University of Texas Rio Grande Valley. Completed in the Fall 2023 semester, this final project showcases my comprehensive understanding of the subject matter and my ability to apply theoretical concepts to real-world challenges in the field of cyber security
 
 ### Overview
 
