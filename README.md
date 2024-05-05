@@ -16,8 +16,8 @@ Bachelor of Science: Cybersecurity
 * CISSP (Expected 12/24)
 
 ## Projects
-## Title: PEAnalyzer - Malware Classification with Python & Tkinter
-## Source: [github.com/JorgeRodriguez1101/PEAnalyzer-Malware-Classification-with-Python-and-Tkinter.git](https://github.com/JorgeRodriguez1101/PEAnalyzer-Malware-Classification-with-Python-and-Tkinter.git)
+### Title: PEAnalyzer - Malware Classification with Python & Tkinter
+### Source: [github.com/JorgeRodriguez1101/PEAnalyzer-Malware-Classification-with-Python-and-Tkinter.git](https://github.com/JorgeRodriguez1101/PEAnalyzer-Malware-Classification-with-Python-and-Tkinter.git)
 
 ### Overview
 
