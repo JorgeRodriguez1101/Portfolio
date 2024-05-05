@@ -1,4 +1,4 @@
-# Jorge Rodriguez Portfolio
+# Jorge Rodriguez Project Portfolio
 
 ## [Project 1: PEAnalyzer - Malware Classification with Python & Tkinter](URL)
 
@@ -35,3 +35,6 @@ Students learning about practical malware analysis and machine learning.
 Streamlines the malware analysis workflow.
 Provides insights into PE file characteristics.
 Offers a flexible platform with customizable machine learning models.
+
+### Pictures
+![](images/MalwareDataAnalysisTool/Picture1.png)
