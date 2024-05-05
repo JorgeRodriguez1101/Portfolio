@@ -28,8 +28,9 @@ PEAnalyzer is a user-friendly malware analysis tool designed to empower security
 Cybersecurity analysts seeking to improve malware detection.
 Researchers exploring malware characteristics and classification techniques.
 Students learning about practical malware analysis and machine learning.
-Benefits
 
+
+###Benefits
 Streamlines the malware analysis workflow.
 Provides insights into PE file characteristics.
 Offers a flexible platform with customizable machine learning models.
