@@ -15,7 +15,7 @@ Bachelor of Science: Cybersecurity
 * CompTIA Network+ (12/2023) Credential ID: KL0EYWERBM4Q12S0
 * CISSP (Expected 12/24)
 
-## Projects
+## PROJECTS
 ### Title: PEAnalyzer - Malware Classification with Python & Tkinter
 ### Source: [github.com/JorgeRodriguez1101/PEAnalyzer-Malware-Classification-with-Python-and-Tkinter.git](https://github.com/JorgeRodriguez1101/PEAnalyzer-Malware-Classification-with-Python-and-Tkinter.git)
 
@@ -39,9 +39,4 @@ PEAnalyzer is a user-friendly malware analysis tool designed to empower security
 * Visualize results with a Seaborn confusion matrix.
 * User-friendly interface with dark mode and hover effects.
 * Error Handling & Utility: Robust exception handling and helper functions for a smooth user experience.
-  
-### Target Audience
 
-Cybersecurity analysts seeking to improve malware detection.
-Researchers exploring malware characteristics and classification techniques.
-Students learning about practical malware analysis and machine learning.
