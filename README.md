@@ -14,7 +14,7 @@ PEAnalyzer is a user-friendly malware analysis tool designed to empower security
 * PE Feature Extraction: Calculate informative file statistics such as entropy, section sizes, and more using the pefile library.
   
 ### Machine Learning Integration:
-* Train Support Vector Machine (SVM) classifiers with customizable parameters or utilize grid search optimization.
+* Train Support Vector Machine (SVM) or Random Forest Trees (RFT) classifiers with customizable parameters or utilize grid search optimization.
 * Employ Random Forest for robust malware detection.
   
 ### Intuitive GUI:
