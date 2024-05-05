@@ -1,21 +1,19 @@
 
-## Jorge Rodriguez
+# Jorge Rodriguez
 jorge.rodriguez1101@outlook.com
 github.com/JorgeRodriguez1101
 linkedin.com/in/jorge-r-rodriguez
 
-## Summary
-Motivated first-generation student at UTRGV, pursuing a degree in Cybersecurity, with certifications in CompTIA Security+ and Network+. Proficient in data analytics and malware analysis, I am eager to leverage my skills in a dynamic cybersecurity role to safeguard digital assets and make impactful data-driven decisions. In my free time, I enjoy producing music, staying active, and volunteering at the local food bank and Special Olympics events.
-
-## EDUCATION
+# EDUCATION
 The University of Texas Rio Grande Valley, Edinburg TX.	Expected 12/12/24
 Bachelor of Science: Cybersecurity
 
-## CERTIFICATIONS
+# CERTIFICATIONS
 * CompTIA Security+ (04/2024) Credential ID: QXSG4S46M2FE1JGF
 * CompTIA Network+ (12/2023) Credential ID: KL0EYWERBM4Q12S0
 * CISSP (Expected 12/24)
 
+# PROJECTS
 ## PROJECT 1
 ### Title: PEAnalyzer - Malware Classification with Python & Tkinter
 ### Source: [github.com/JorgeRodriguez1101/PEAnalyzer-Malware-Classification-with-Python-and-Tkinter.git](https://github.com/JorgeRodriguez1101/PEAnalyzer-Malware-Classification-with-Python-and-Tkinter.git)
@@ -46,7 +44,5 @@ PEAnalyzer is a user-friendly malware analysis tool designed to empower security
 ### Source: [github.com/JorgeRodriguez1101/A-Machine-Learning-Approach-to-Detecting-Malicious-DGA-Domains](https://github.com/JorgeRodriguez1101/A-Machine-Learning-Approach-to-Detecting-Malicious-DGA-Domains)
 
 ### Overview
-In a team effort we developed a Domain Generating Algorithm classifier achieving 94% accuracy with Tensorflow
-and advanced feature extraction, providing actionable threat intelligence. Recognized as a
-finalist in the UTRGV 2024 Engineers Week competition.
+Collaboratively developed a Domain Generating Algorithm classifier, achieving 94% accuracy using TensorFlow and advanced feature extraction, delivering actionable threat intelligence. This project earned recognition as a finalist in the UTRGV 2024 Engineers Week competition.
 
