@@ -1,3 +1,22 @@
+
+Jorge Rodriguez
+(956)-609-5421
+McAllen, TX 78503
+jorge.rodriguez1101@outlook.com
+github.com/JorgeRodriguez1101
+linkedin.com/in/jorge-r-rodriguez
+
+## EDUCATION
+The University of Texas Rio Grande Valley, Edinburg TX.	Expected 12/12/24
+Bachelor of Science: Cybersecurity.	
+Awards: President’s List Fall 2023, Dean’s List Fall 2022 and Spring 2023.
+
+## CERTIFICATIONS
+* CompTIA Security+ (04/2024) Credential ID: QXSG4S46M2FE1JGF
+* CompTIA Network+ (12/2023) Credential ID: KL0EYWERBM4Q12S0
+* CISSP (Expected 12/24)
+
+##Projects
 # Title: PEAnalyzer - Malware Classification with Python & Tkinter
 ## Source: [github.com/JorgeRodriguez1101/PEAnalyzer-Malware-Classification-with-Python-and-Tkinter.git](https://github.com/JorgeRodriguez1101/PEAnalyzer-Malware-Classification-with-Python-and-Tkinter.git)
 
@@ -34,6 +53,3 @@ Students learning about practical malware analysis and machine learning.
 Streamlines the malware analysis workflow.
 Provides insights into PE file characteristics.
 Offers a flexible platform with customizable machine learning models.
-
-### Pictures
-![](images/MalwareDataAnalysisTool/Picture1.png)
