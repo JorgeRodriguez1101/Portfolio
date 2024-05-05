@@ -14,13 +14,13 @@ Bachelor of Science: Cybersecurity
 * CISSP (Expected 12/24)
 
 # PROJECTS
-## PROJECT 1
+## Project 1
 ### Title: PEAnalyzer - Malware Classification with Python & Tkinter
-### Source: [github.com/JorgeRodriguez1101/PEAnalyzer-Malware-Classification-with-Python-and-Tkinter.git](https://github.com/JorgeRodriguez1101/PEAnalyzer-Malware-Classification-with-Python-and-Tkinter.git)
+### Source: [PEAnalyzer on GitHub](https://github.com/JorgeRodriguez1101/PEAnalyzer-Malware-Classification-with-Python-and-Tkinter.git)
 
 ### Overview
 
-PEAnalyzer is a user-friendly malware analysis tool designed to empower security professionals and researchers.  Built with Python and a Tkinter GUI, it facilitates the extraction of features from Portable Executable (PE) files, the training of machine learning models, and the classification of unknown files as malware or benign.
+PEAnalyzer is an innovative malware analysis tool tailored for security professionals and researchers. Built using Python with a Tkinter GUI, it facilitates the extraction of features from Portable Executable (PE) files, allowing for effective training of machine learning models and the classification of files as either malicious or benign.
 
 ### Key Features
 
@@ -44,5 +44,5 @@ PEAnalyzer is a user-friendly malware analysis tool designed to empower security
 ### Source: [github.com/JorgeRodriguez1101/A-Machine-Learning-Approach-to-Detecting-Malicious-DGA-Domains](https://github.com/JorgeRodriguez1101/A-Machine-Learning-Approach-to-Detecting-Malicious-DGA-Domains)
 
 ### Overview
-Collaboratively developed a Domain Generating Algorithm classifier, achieving 94% accuracy using TensorFlow and advanced feature extraction, delivering actionable threat intelligence. This project earned recognition as a finalist in the UTRGV 2024 Engineers Week competition.
+Collaboratively developed a Domain Generating Algorithm classifier, achieving 94% accuracy using TensorFlow and advanced feature extraction. Developed . This project earned recognition as a finalist in the UTRGV 2024 Engineers Week competition.
 
