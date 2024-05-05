@@ -1,7 +1,5 @@
 
 ## Jorge Rodriguez
-(956)-609-5421
-McAllen, TX 78503
 jorge.rodriguez1101@outlook.com
 github.com/JorgeRodriguez1101
 linkedin.com/in/jorge-r-rodriguez
@@ -18,7 +16,7 @@ Bachelor of Science: Cybersecurity
 * CompTIA Network+ (12/2023) Credential ID: KL0EYWERBM4Q12S0
 * CISSP (Expected 12/24)
 
-## PROJECTS
+## PROJECT 1
 ### Title: PEAnalyzer - Malware Classification with Python & Tkinter
 ### Source: [github.com/JorgeRodriguez1101/PEAnalyzer-Malware-Classification-with-Python-and-Tkinter.git](https://github.com/JorgeRodriguez1101/PEAnalyzer-Malware-Classification-with-Python-and-Tkinter.git)
 
@@ -42,4 +40,13 @@ PEAnalyzer is a user-friendly malware analysis tool designed to empower security
 * Visualize results with a Seaborn confusion matrix.
 * User-friendly interface with dark mode and hover effects.
 * Error Handling & Utility: Robust exception handling and helper functions for a smooth user experience.
+
+## Project 2
+### Title: A Machine Learning Approach to Detecting Malicious DGA Domains
+### Source: [github.com/JorgeRodriguez1101/A-Machine-Learning-Approach-to-Detecting-Malicious-DGA-Domains](https://github.com/JorgeRodriguez1101/A-Machine-Learning-Approach-to-Detecting-Malicious-DGA-Domains)
+
+### Overview
+In a team effort we developed a Domain Generating Algorithm classifier achieving 94% accuracy with Tensorflow
+and advanced feature extraction, providing actionable threat intelligence. Recognized as a
+finalist in the UTRGV 2024 Engineers Week competition.
 
