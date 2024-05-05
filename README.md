@@ -8,8 +8,7 @@ linkedin.com/in/jorge-r-rodriguez
 
 ## EDUCATION
 The University of Texas Rio Grande Valley, Edinburg TX.	Expected 12/12/24
-Bachelor of Science: Cybersecurity.	
-Awards: President’s List Fall 2023, Dean’s List Fall 2022 and Spring 2023.
+Bachelor of Science: Cybersecurity
 
 ## CERTIFICATIONS
 * CompTIA Security+ (04/2024) Credential ID: QXSG4S46M2FE1JGF
