@@ -1,5 +1,5 @@
 
-Jorge Rodriguez
+## Jorge Rodriguez
 (956)-609-5421
 McAllen, TX 78503
 jorge.rodriguez1101@outlook.com
@@ -16,7 +16,7 @@ Awards: President’s List Fall 2023, Dean’s List Fall 2022 and Spring 2023.
 * CompTIA Network+ (12/2023) Credential ID: KL0EYWERBM4Q12S0
 * CISSP (Expected 12/24)
 
-##Projects
+## Projects
 # Title: PEAnalyzer - Malware Classification with Python & Tkinter
 ## Source: [github.com/JorgeRodriguez1101/PEAnalyzer-Malware-Classification-with-Python-and-Tkinter.git](https://github.com/JorgeRodriguez1101/PEAnalyzer-Malware-Classification-with-Python-and-Tkinter.git)
 
