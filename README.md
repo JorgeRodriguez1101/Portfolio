@@ -16,10 +16,8 @@ Bachelor of Science: Cybersecurity
 * CISSP (Expected 12/24)
 
 ## Projects
-# Title: PEAnalyzer - Malware Classification with Python & Tkinter
+## Title: PEAnalyzer - Malware Classification with Python & Tkinter
 ## Source: [github.com/JorgeRodriguez1101/PEAnalyzer-Malware-Classification-with-Python-and-Tkinter.git](https://github.com/JorgeRodriguez1101/PEAnalyzer-Malware-Classification-with-Python-and-Tkinter.git)
-
-This project represents the culmination of my academic endeavors in CYBI 4336 - Cyber Security Engineering with Artificial Intelligence and Machine Learning, a course offered at The University of Texas Rio Grande Valley. Completed in the Fall 2023 semester, this final project showcases my comprehensive understanding of the subject matter and my ability to apply theoretical concepts to real-world challenges in the field of cyber security
 
 ### Overview
 
@@ -47,8 +45,3 @@ PEAnalyzer is a user-friendly malware analysis tool designed to empower security
 Cybersecurity analysts seeking to improve malware detection.
 Researchers exploring malware characteristics and classification techniques.
 Students learning about practical malware analysis and machine learning.
-
-### Benefits
-Streamlines the malware analysis workflow.
-Provides insights into PE file characteristics.
-Offers a flexible platform with customizable machine learning models.
