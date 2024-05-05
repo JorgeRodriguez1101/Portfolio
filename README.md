@@ -7,7 +7,7 @@ github.com/JorgeRodriguez1101
 linkedin.com/in/jorge-r-rodriguez
 
 ## Summary
-As a first-generation student at UTRGV, I'm eager to develop my cybersecurity and data analytics skills. My projects, like building a DGA classification tool and applying machine learning to health data, show my commitment to finding technical solutions. I'm excited to learn from experienced professionals and use my growing knowledge to protect digital assets and make data-driven contributions to my community.
+Motivated first-generation student at UTRGV, pursuing a degree in Cybersecurity, with certifications in CompTIA Security+ and Network+. Proficient in data analytics and malware analysis, I am eager to leverage my skills in a dynamic cybersecurity role to safeguard digital assets and make impactful data-driven decisions. In my free time, I enjoy producing music, staying active, and volunteering at the local food bank and Special Olympics events.
 
 ## EDUCATION
 The University of Texas Rio Grande Valley, Edinburg TX.	Expected 12/12/24
