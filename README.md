@@ -1,4 +1,4 @@
-## [Project 1: PEAnalyzer - Malware Classification with Python & Tkinter](https://github.com/JorgeRodriguez1101/Malware-Classification-with-Python-Tkinter.git)
+## [Project 1: PEAnalyzer - Malware Classification with Python & Tkinter](https://github.com/JorgeRodriguez1101/PEAnalyzer-Malware-Classification-with-Python-and-Tkinter.git)
 
 This project represents the culmination of my academic endeavors in CYBI 4336 - Cyber Security Engineering with Artificial Intelligence and Machine Learning, a course offered at The University of Texas Rio Grande Valley. Completed in the Fall 2023 semester, this final project showcases my comprehensive understanding of the subject matter and my ability to apply theoretical concepts to real-world challenges in the field of cyber security
 
