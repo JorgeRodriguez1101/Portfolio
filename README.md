@@ -4,15 +4,6 @@ jorge.rodriguez1101@outlook.com
 github.com/JorgeRodriguez1101
 linkedin.com/in/jorge-r-rodriguez
 
-# EDUCATION
-The University of Texas Rio Grande Valley, Edinburg TX.	Expected 12/12/24
-Bachelor of Science: Cybersecurity
-
-# CERTIFICATIONS
-* CompTIA Security+ (04/2024) Credential ID: QXSG4S46M2FE1JGF
-* CompTIA Network+ (12/2023) Credential ID: KL0EYWERBM4Q12S0
-* CISSP (Expected 12/24)
-
 # PROJECTS
 ## Project 1
 ### Title: PEAnalyzer - Malware Classification with Python & Tkinter
