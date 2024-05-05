@@ -1,4 +1,4 @@
-## [Project 1: PEAnalyzer - Malware Classification with Python & Tkinter](URL)
+## [Project 1: PEAnalyzer - Malware Classification with Python & Tkinter](https://github.com/JorgeRodriguez1101/Malware-Classification-with-Python-Tkinter.git)
 
 This project represents the culmination of my academic endeavors in CYBI 4336 - Cyber Security Engineering with Artificial Intelligence and Machine Learning, a course offered at The University of Texas Rio Grande Valley. Completed in the Fall 2023 semester, this final project showcases my comprehensive understanding of the subject matter and my ability to apply theoretical concepts to real-world challenges in the field of cyber security
 
@@ -9,7 +9,7 @@ PEAnalyzer is a user-friendly malware analysis tool designed to empower security
 ### Key Features
 
 ### Data Handling:
-* Load and process malware datasets from CSV files.
+* Load and process malware datasets from CSV files with avility to add extra data.
 * Data preparation with feature selection and scaling (StandardScaler, RobustScaler).
 * PE Feature Extraction: Calculate informative file statistics such as entropy, section sizes, and more using the pefile library.
   
