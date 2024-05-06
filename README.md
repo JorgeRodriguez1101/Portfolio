@@ -15,7 +15,7 @@ PEAnalyzer is an innovative malware analysis tool tailored for security professi
 
 
 # Project 2
-### **Title:** A Machine Learning Approach to Detecting Malicious DGA Domains
+### **Title:** Machine Learning Based Domain Generating Algorithm Detection
 ### Source: [ML-Based-DGA-Domain-Detection on GitHub](https://github.com/JorgeRodriguez1101/A-Machine-Learning-Approach-to-Detecting-Malicious-DGA-Domains)
 
 ### Overview
