@@ -6,7 +6,7 @@ linkedin.com/in/jorge-r-rodriguez
 
 # PROJECTS
 ## Project 1
-### Title: PEAnalyzer - Malware Classification with Python & Tkinter
+### **Title:** PEAnalyzer - Malware Classification with Python & Tkinter
 ### Source: [PEAnalyzer on GitHub](https://github.com/JorgeRodriguez1101/PEAnalyzer-Malware-Classification-with-Python-and-Tkinter.git)
 
 ### Overview
@@ -22,7 +22,6 @@ PEAnalyzer is an innovative malware analysis tool tailored for security professi
   
 ### Machine Learning Integration:
 * Train Support Vector Machine (SVM) or Random Forest Trees (RFT) classifiers with customizable parameters or utilize grid search optimization.
-* Employ Random Forest for robust malware detection.
   
 ### Intuitive GUI:
 * Conveniently upload and analyze PE files.
@@ -31,7 +30,7 @@ PEAnalyzer is an innovative malware analysis tool tailored for security professi
 * Error Handling & Utility: Robust exception handling and helper functions for a smooth user experience.
 
 ## Project 2
-### Title: A Machine Learning Approach to Detecting Malicious DGA Domains
+### **Title:** A Machine Learning Approach to Detecting Malicious DGA Domains
 ### Source: [AI/ML Final Project on GitHub](https://github.com/JorgeRodriguez1101/A-Machine-Learning-Approach-to-Detecting-Malicious-DGA-Domains)
 
 ### Overview
