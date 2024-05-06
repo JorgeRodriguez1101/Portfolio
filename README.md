@@ -4,8 +4,8 @@ jorge.rodriguez1101@outlook.com
 github.com/JorgeRodriguez1101
 linkedin.com/in/jorge-r-rodriguez
 
-# PROJECTS
-## Project 1
+
+# Project 1
 ### **Title:** PEAnalyzer - Malware Classification with Python & Tkinter
 ### Source: [PEAnalyzer on GitHub](https://github.com/JorgeRodriguez1101/PEAnalyzer-Malware-Classification-with-Python-and-Tkinter.git)
 
@@ -13,23 +13,8 @@ linkedin.com/in/jorge-r-rodriguez
 
 PEAnalyzer is an innovative malware analysis tool tailored for security professionals and researchers. Built using Python with a Tkinter GUI, it facilitates the extraction of features from Portable Executable (PE) files, allowing for effective training of machine learning models and the classification of files as either malicious or benign.
 
-### Key Features
 
-### Data Handling:
-* Load and process malware datasets from CSV files with avility to add extra data.
-* Data preparation with feature selection and scaling (StandardScaler, RobustScaler).
-* PE Feature Extraction: Calculate informative file statistics such as entropy, section sizes, and more using the pefile library.
-  
-### Machine Learning Integration:
-* Train Support Vector Machine (SVM) or Random Forest Trees (RFT) classifiers with customizable parameters or utilize grid search optimization.
-  
-### Intuitive GUI:
-* Conveniently upload and analyze PE files.
-* Visualize results with a Seaborn confusion matrix.
-* User-friendly interface with dark mode and hover effects.
-* Error Handling & Utility: Robust exception handling and helper functions for a smooth user experience.
-
-## Project 2
+# Project 2
 ### **Title:** A Machine Learning Approach to Detecting Malicious DGA Domains
 ### Source: [AI/ML Final Project on GitHub](https://github.com/JorgeRodriguez1101/A-Machine-Learning-Approach-to-Detecting-Malicious-DGA-Domains)
 
