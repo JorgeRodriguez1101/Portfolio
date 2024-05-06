@@ -7,7 +7,6 @@ linkedin.com/in/jorge-r-rodriguez
 
 # Project 1
 ### **Title:** PEAnalyzer - Malware Classification with Python & Tkinter
-### Source: [PEAnalyzer on GitHub](https://github.com/JorgeRodriguez1101/PEAnalyzer-Malware-Classification-with-Python-and-Tkinter.git)
 
 ### Overview
 
@@ -16,7 +15,6 @@ PEAnalyzer is an innovative malware analysis tool tailored for security professi
 
 # Project 2
 ### **Title:** Machine Learning Based Domain Generating Algorithm Detection
-### Source: [ML-Based-DGA-Domain-Detection on GitHub](https://github.com/JorgeRodriguez1101/A-Machine-Learning-Approach-to-Detecting-Malicious-DGA-Domains)
 
 ### Overview
 
