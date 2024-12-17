@@ -10,7 +10,7 @@ linkedin.com/in/jorge-r-rodriguez
 
 ### Overview
 
-PEAnalyzer is an innovative malware analysis tool tailored for security professionals and researchers. Built using Python with a Tkinter GUI, it facilitates the extraction of features from Portable Executable (PE) files, allowing for effective training of machine learning models and the classification of files as either malicious or benign.
+PEAnalyzer is an innovative malware analysis tool tailored for students. Built using Python with a Tkinter GUI, it facilitates the extraction of features from Portable Executable (PE) files, allowing for effective training of machine learning models and the classification of files as either malicious or benign.
 
 
 # Project 2
