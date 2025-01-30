@@ -41,11 +41,11 @@ I’m a passionate **IT/Cybersecurity** professional with a strong focus on **AI
 
 ## **Technical Skills**
 - **Programming**: Python, C++, PowerShell, HTML  
-- **Machine Learning**: CNN, BiLSTM, SVM, Random Forest  
+- **Machine Learning**: TensorFlow, Pandas, Seaborn, Scikit-Learn
 - **DevOps & Cloud**: GCP (Compute Engine, Cloud Storage), VirtualBox, VMware  
-- **Security & Networking**: VPN, TCP/IP, DNSSEC, IPsec, Active Directory  
+- **Security & Networking**: TCP/IP, OWASP Top 10, Active Directory, VPN, MFA
 - **Databases**: Google BigQuery, Firebase, Microsoft SharePoint  
-- **Tools**: Wireshark, Nmap, FTK imager, MS 360 (Teams/Excel/Word), TeamViewer
+- **Tools**: TeamSupport, Wireshark, Nmap, FTK imager, MS 360 (Teams/Excel/Word), TeamViewer
 
 ---
 
