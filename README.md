@@ -14,7 +14,6 @@ I’m a passionate **IT/Cybersecurity** professional with a strong focus on tele
 
 ### **1. AI-Driven Domain Generating Algorithm Detection System**
 - **Documentation**: [Project Repo](https://gitfront.io/r/JorgeRodriguez1101/muGjRFx4QNmc/Self-Learning-DGA-Detection-System-on-GCP/)
-- **Live Deployment**: [aidomaindefense.net](http://aidomaindefense.net)
 - **Highlights**:
   - Built and deployed a **full-stack web application** on **Google Cloud Platform (GCP)** that detects malicious domains using a **custom deep learning model (CNN + BiLSTM)**.
   - Achieved **98% detection accuracy** trained on a **1.8 million** domain dataset.
