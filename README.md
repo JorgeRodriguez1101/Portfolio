@@ -36,17 +36,3 @@ I’m a passionate **IT/Cybersecurity** professional with a strong focus on tele
   - Derived **actionable insights** and **evidence-based recommendations** (e.g., nutrition education, mental health support) for public health interventions.
   - Demonstrated the **analytical process** from data preprocessing to model deployment and results interpretation.
 
----
-
-## **Technical Skills**
-- **Programming**: Python, C++, PowerShell, HTML  
-- **Machine Learning**: TensorFlow, Pandas, Seaborn, Scikit-Learn
-- **DevOps & Cloud**: GCP (Compute Engine, Cloud Storage), VirtualBox, VMware  
-- **Security & Networking**: TCP/IP, OWASP Top 10, Active Directory, VPN, MFA
-- **Databases**: Google BigQuery, Firebase, Microsoft SharePoint  
-- **Tools**: TeamSupport, Wireshark, Nmap, FTK imager, MS 360 (Teams/Excel/Word), TeamViewer
-
----
-
-## **Contact**
-Feel free to reach out via **[LinkedIn](https://linkedin.com/in/jorge-r-rodriguez)** or **[Email](mailto:jorge.rodriguez1101@outlook.com)**.
