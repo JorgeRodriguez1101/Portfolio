@@ -6,7 +6,7 @@
 ---
 
 ## **About Me**
-I’m a passionate **IT/Cybersecurity** professional with a strong focus on **AI/ML-driven security** solutions. Through my academic journey and hands-on projects, I’ve gained expertise in building and deploying intelligent systems that enhance protection and streamline threat detection. I thrive on tackling complex challenges, learning new technologies, and collaborating with cross-functional teams to deliver secure and efficient solutions.
+I’m a passionate **IT/Cybersecurity** professional with a strong focus on telecomunication networks and **AI/ML-driven security** solutions. Through my academic journey and hands-on projects, I’ve gained expertise in building and deploying enterprice networks and intelligent systems that enhance protection and streamline threat detection. I thrive on tackling complex challenges, learning new technologies, and collaborating with cross-functional teams to deliver secure and efficient solutions for organizations.
 
 ---
 
